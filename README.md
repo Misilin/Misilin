@@ -39,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="42" alt="bash logo" />
 </div>
 
 ---
@@ -57,8 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo" />
 </div>
 
 ---
@@ -96,15 +92,9 @@
 
 ---
 
-## Stats
+## Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Misilin&show_icons=true&theme=dracula&hide_border=false" height="155" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misilin&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="155" alt="Top languages" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misilin&radius=16&theme=react&area=true" height="300" alt="Activity graph" />
 
@@ -112,16 +102,6 @@
 
 <img src="https://github-profile-trophy.vercel.app?username=Misilin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
 
-</div>
-
----
-
-## Connect
-
-<div align="left">
-  <a href="https://github.com/Misilin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
-  </a>
 </div>
 
 ---
