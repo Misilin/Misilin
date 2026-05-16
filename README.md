@@ -12,17 +12,8 @@
 
 </div>
 
----
-
-## About me
-
-- Interested in quantitative finance, mathematics, programming, and financial engineering.
-- Currently building stronger foundations in Python, statistics, modeling, and analytics.
-- I like dashboards, market models, clean visualizations, and elegant mathematical systems.
-- Also into Japanese culture, anime, cars, music, and other very necessary side quests.
 
 ---
-
 
 
 ## Languages
@@ -69,28 +60,6 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="42" alt="linux logo" />
 </div>
 
----
-
-## Current interests
-
-<table>
-  <tr>
-    <td><b>Quant Finance</b></td>
-    <td>Portfolio theory, derivatives, risk models, stochastic processes, backtesting.</td>
-  </tr>
-  <tr>
-    <td><b>Mathematics</b></td>
-    <td>Probability, statistics, optimization, calculus, linear algebra, numerical methods.</td>
-  </tr>
-  <tr>
-    <td><b>Programming</b></td>
-    <td>Python, data analysis, dashboards, automation, model prototyping.</td>
-  </tr>
-  <tr>
-    <td><b>Side quests</b></td>
-    <td>Japanese culture, anime, cars, music, and beautiful technical setups.</td>
-  </tr>
-</table>
 
 ---
 
@@ -109,7 +78,5 @@
 ---
 
 <div align="center">
-
-### Mathematics is the language. Finance is one of its battlefields.
 
 </div>
