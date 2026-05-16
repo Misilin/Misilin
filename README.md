@@ -2,12 +2,8 @@
 
 <img src="https://count.getloli.com/@:Misilin?theme=booru-lewd&padding=8&scale=1.3&align=top&pixelated=1&darkmode=auto" alt="visitor counter" />
 
-# nice to meet you.
-
-### Quant Finance • Mathematics • Python • Data • Analytics
-
 <p>
-  Building toward financial engineering, quantitative research, and mathematical modeling.
+  Quantitative research, and mathematical modeling.
 </p>
 
 </div>
