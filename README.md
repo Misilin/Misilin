@@ -27,6 +27,11 @@
       <br>
       <sub><b>MATLAB</b></sub>
     </td>
+    <td align="center" width="95">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
+      <br>
+      <sub><b>C++</b></sub>
+    </td>
   </tr>
 </table>
 
