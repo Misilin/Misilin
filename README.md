@@ -14,17 +14,17 @@
 
 <table>
   <tr>
-    <td align="center" width="90">
+    <td align="center" width="95">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
       <br>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="90">
+    <td align="center" width="95">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R" />
       <br>
       <sub><b>R</b></sub>
     </td>
-    <td align="center" width="90">
+    <td align="center" width="95">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" alt="MATLAB" />
       <br>
       <sub><b>MATLAB</b></sub>
@@ -36,7 +36,7 @@
 
 ---
 
-## Scientific stack
+## Research stack
 
 <div align="left">
 
@@ -58,9 +58,19 @@
       <sub><b>SciPy</b></sub>
     </td>
     <td align="center" width="95">
+      <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text-light.svg" height="42" alt="Statsmodels" />
+      <br>
+      <sub><b>Statsmodels</b></sub>
+    </td>
+    <td align="center" width="95">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="42" alt="Scikit-learn" />
       <br>
       <sub><b>Sklearn</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib" />
+      <br>
+      <sub><b>Matplotlib</b></sub>
     </td>
     <td align="center" width="95">
       <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="42" alt="Plotly" />
@@ -74,12 +84,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge" alt="Statsmodels badge" />
-<img src="https://img.shields.io/badge/Time%20Series-6272A4?style=for-the-badge" alt="Time Series badge" />
-<img src="https://img.shields.io/badge/Optimization-44475A?style=for-the-badge" alt="Optimization badge" />
 
 </div>
 
@@ -123,23 +127,29 @@
 
 ---
 
-## 3D Contributions
+## Contribution surface
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution surface" />
 
 </div>
 
 ---
 
-## Activity
+## Activity timeline
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misilin&radius=16&theme=react&area=true" height="300" alt="Activity graph" />
 
-<br><br>
+</div>
+
+---
+
+## Achievements
+
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app?username=Misilin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
 
