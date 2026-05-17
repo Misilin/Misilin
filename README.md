@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://count.getloli.com/@:Misilin?theme=booru-lewd&padding=8&scale=1.3&align=top&pixelated=1&darkmode=auto" alt="visitor counter" />
-
 <h3>Quantitative research • Mathematical modeling</h3>
 
 </div>
@@ -68,7 +66,7 @@
       <sub><b>Sklearn</b></sub>
     </td>
     <td align="center" width="95">
-      <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="42" alt="Matplotlib" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42" alt="Matplotlib" />
       <br>
       <sub><b>Matplotlib</b></sub>
     </td>
@@ -127,19 +125,17 @@
 
 ---
 
-## Contribution surface
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution surface" />
-
-</div>
-
----
-
 ## Activity timeline
 
 <div align="center">
+
+<img src="https://count.getloli.com/@:Misilin?theme=booru-lewd&padding=8&scale=1.3&align=top&pixelated=1&darkmode=auto" alt="visitor counter" />
+
+<br><br>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Contribution surface" />
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Misilin&radius=16&theme=react&area=true" height="300" alt="Activity graph" />
 
