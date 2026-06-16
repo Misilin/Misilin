@@ -152,6 +152,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app?username=Misilin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Misilin&theme=dracula&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="Trophy graph" />
 
 </div>
