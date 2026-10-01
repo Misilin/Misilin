@@ -11,39 +11,11 @@ Economics &amp; finance background. Exploring quantitative finance through<br>
 probability, optimization, statistical modeling, and scientific computing.
 </p>
 
-<a href="#research-focus">Research focus</a> &nbsp;·&nbsp;
 <a href="#languages">Languages</a> &nbsp;·&nbsp;
 <a href="#research-stack">Research stack</a> &nbsp;·&nbsp;
 <a href="#activity-timeline">Activity</a>
 
 </div>
-
-## Research focus
-
-<table>
-  <tr>
-    <td width="360" valign="top">
-      <h3>01 · Portfolio construction</h3>
-      <p>Covariance estimation, shrinkage, and constrained optimization. Exploring the trade-offs between risk, concentration, and turnover.</p>
-    </td>
-    <td width="360" valign="top">
-      <h3>02 · Time series &amp; risk</h3>
-      <p>Volatility, dependence, and changing regimes. Studying how models behave when their assumptions meet financial data.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="360" valign="top">
-      <h3>03 · Systematic strategies</h3>
-      <p>Intraday signals, backtesting, and out-of-sample evaluation. Investigating robustness, trading costs, and sensitivity to modeling choices.</p>
-    </td>
-    <td width="360" valign="top">
-      <h3>04 · Mathematical foundations</h3>
-      <p>Probability, discrete mathematics, algorithms, and numerical methods. Building the foundations for deeper quantitative research.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Understand the assumptions. Test the idea. Make the experiment reproducible.</sub></p>
 
 ## Languages
 
@@ -171,4 +143,3 @@ probability, optimization, statistical modeling, and scientific computing.
 <sub>Mathematics · Markets · Code</sub>
 
 </div>
-
